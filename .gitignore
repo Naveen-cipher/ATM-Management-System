@@ -1,0 +1,12 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.out
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.tmp
